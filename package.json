@@ -1,0 +1,8 @@
+{
+  "name": "wax-and-wick",
+  "version": "1.0.0",
+  "description": "Wax & Wick candle store - DevOps course project",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
